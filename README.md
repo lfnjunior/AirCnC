@@ -2,7 +2,7 @@
 
 ### Air Code And Coffee 
 
-![Wallpaper OmniStack - 1440x900](https://github.com/lfnjunior/AirCnC/blob/master/mobile-react-native/src/assets/logo@3x.png?raw=true)
+![Logo AirCnc](https://github.com/lfnjunior/AirCnC/blob/master/mobile-react-native/src/assets/logo@3x.png?raw=true)
 
 - Assista a demonstração da aplicação clicando na logo do Youtube:
 
